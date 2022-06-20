@@ -1,3 +1,1 @@
-# References
-
-* octocat 1 😈
+This is a sample content that will create conflict with the main branch.
